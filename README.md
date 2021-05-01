@@ -36,7 +36,7 @@
 
 4. Android Studio > File > New > Import Project > 압축 해제한 프로젝트 폴더 선택
 
-<img src="./README_src/Untitled 1.png" width="50%;" />
+<img src="./README_src/Untitled 1.png" width="40%;" />
 
 5. No Devices > AVD Manager
 
