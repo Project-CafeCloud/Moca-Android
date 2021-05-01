@@ -36,31 +36,31 @@
 
 4. Android Studio > File > New > Import Project > 압축 해제한 프로젝트 폴더 선택
 
-<img src="./README_src/Untitled 1.png" style="zoom: 50%;" />
+<img src="./README_src/Untitled 1.png" width="50%;" />
 
 5. No Devices > AVD Manager
 
-<img src="./README_src/Untitled 2.png" style="zoom:80%;" />
+<img src="./README_src/Untitled 2.png" width="80%;" />
 
-<img src="./README_src/Untitled 3.png" style="zoom:80%;" />
+<img src="./README_src/Untitled 3.png" width="80%;" />
 
 6. Create Virtual Device > Pixel 3 선택 > Next
 
-<img src="./README_src/Untitled 4.png" style="zoom:80%;" />
+<img src="./README_src/Untitled 4.png" width="80%;" />
 
 7.  Virtual Device Configuration > Pie 선택 > Next > Finish
 
-<img src="./README_src/Untitled 5.png" style="zoom:80%;" />
+<img src="./README_src/Untitled 5.png" width="80%;" />
 
-<img src="./README_src/Untitled 6.png" style="zoom:80%;" />
+<img src="./README_src/Untitled 6.png" width="80%;" />
 
 8.  ▶️ 버튼 클릭 해서 실행 
 
-<img src="./README_src/Untitled 7.png" style="zoom: 80%;" />
+<img src="./README_src/Untitled 7.png" width="80%;" />
 
 9. 실행 완료
 
-<img src="./README_src/Untitled 8.png" style="zoom: 25%;" />
+<img src="./README_src/Untitled 8.png" width="25%;" />
 
 
 
